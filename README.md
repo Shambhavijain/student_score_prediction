@@ -14,3 +14,16 @@ This project predicts a student's final exam score based on:
 - Jupyter Notebooks for EDA and training
 
 ## 📁 Project Structure
+student-performance-prediction/
+│
+├── data/
+│   └── student_performance_dataset.csv
+│
+├── notebooks/
+│   └── model_training_and_evaluation.ipynb
+│
+├── app.py
+├── model.pkl
+├── requirements.txt
+├── README.md
+
